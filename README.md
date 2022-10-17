@@ -1,24 +1,48 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Project Name: Hello Rails
 
-Things you may want to cover:
+> Description of the project: An introduction to Ruby on Rails.
 
-* Ruby version
+## Built With
+- Languages: Ruby
+- Models/Frameworks: Ruby on Rails
 
-* System dependencies
+## Getting started
+To get a local copy of this exercice, Please follow these simple example steps.
 
-* Configuration
+#### 1. Clone this repository or download the Zip folder:"
 
-* Database creation
+```bash command
+$ git clone https://github.com/TracK92/hello-rails.git
+```
+#### 2. Navigate to the location of the folder in your machine:
+```bash command
+you@your-Pc-name:~$ cd <folder>
+```
+#### 3. Press Enter to navigate to your local clone.
 
-* Database initialization
+#### 4. Go to your terminal and run the app with the following command:
+```bash command
+rails server
+```
+- Navigate to http://localhost:3000/
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Tracey Kadenyi**
 
-* Deployment instructions
+- GitHub: [@TracK92](https://github.com/TracK92)
+- LinkedIn: [Tracey Kadenyi](https://www.linkedin.com/in/tracey-kadenyi/)
+d/)
 
-* ...
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
